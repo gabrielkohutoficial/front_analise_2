@@ -1,0 +1,10 @@
+<html>
+    <!----cabeçario / Apenas para o navegador -->
+    <head>
+        <title>Minha primeira pagina</title>
+    </head>
+    <!--corpo ou conteudo visível -->
+    <body>
+        alguma coisa...
+    </body>
+</html>
