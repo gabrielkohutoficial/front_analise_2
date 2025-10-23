@@ -15,3 +15,4 @@ for(let valor in vestuario) {
 // console.log(vestuario[0])
 // console.log(vestuario[2])
 // console.log(vestuario[33])
+
